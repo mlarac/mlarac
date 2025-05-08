@@ -3,7 +3,7 @@
 <h1 align="center">Hola 👋, Soy Marcelo Lara</h1>
 <h3 align="center">Eterno viajero en el mundo del software.</h3>
 
-- 👨‍💻 All of my projects are available at [mlarac.github.io](mlarac.github.io)
+- 👨‍💻 Some of my projects are available at [mlarac.github.io](mlarac.github.io)
 
 - 📝 I regularly write articles on [http://mlarac.cl](http://mlarac.cl)
 
